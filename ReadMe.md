@@ -12,6 +12,6 @@ Final Internship Report, Monthly Reports and Demo of the noPhish.
 Code couldn't be uploaded, because of the confidentiality agreement.
 
 ## About the Company
-[Symantec] (http://www.netcracker.com) is a Fortune 500 company which provides cybersecurity software and services.
+[Symantec](https://www.symantec.com/) is a Fortune 500 company which provides cybersecurity software and services.
 
 ### Contributor: [Yash Saboo](https://github.com/yashsaboo)
